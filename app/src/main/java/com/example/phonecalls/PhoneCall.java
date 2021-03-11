@@ -2,8 +2,8 @@ package com.example.phonecalls;
 
 public class PhoneCall {
 
-    String callStart;
-    String callEnd;
+    private String callStart;
+    private String callEnd;
 
     public String getCallStart() {
         return callStart;
